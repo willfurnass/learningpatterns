@@ -21,5 +21,3 @@ In addition he has taught or helped run RSE, water engineering and study skills 
 His interests include helping researchers optimise data analysis workflows (primarily using higher-level languages), 
 providing training in RSE best practices and 
 systems administration.
-
-Twitter: [@willfurnass](https://www.twitter.com/willfurnass)
