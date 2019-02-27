@@ -2,3 +2,10 @@ baseURL = "https://learningpatterns.me"
 languageCode = "en-gb"
 title = "Learning Patterns"
 theme = "ananke"
+draft = false
+
+[params]
+  favicon = ""
+  twitter = "https://twitter.com/willfurnass"
+  github = "https://github.com/willfurnass"
+  gitlab = "https://gitlab.com/willfurnass"
