@@ -1,0 +1,4 @@
+baseURL = "https://learningpatterns.me"
+languageCode = "en-gb"
+title = "Learning Patterns"
+theme = "ananke"
