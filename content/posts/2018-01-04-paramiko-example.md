@@ -4,6 +4,9 @@ date = 2018-01-04
 tags = ["grid-engine", "python", "ssh"]
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-01-04-paramiko-example",
+]
 +++
 
 HPC clusters running the Grid Engine distributed resource manager (job scheduling) software allow jobs to be submitted from a whitelist of 'submit hosts'. 

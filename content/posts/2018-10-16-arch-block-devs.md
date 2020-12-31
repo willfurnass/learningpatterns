@@ -4,6 +4,9 @@ date = 2018-10-16T18:12:41Z
 tags  = ["arch", "linux", "drivers", "kernel"]
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-10-16-arch-block-devs/",
+]
 +++
 
 I've been running [Arch Linux][arch] on my personal and work laptops for a couple of years and love it: 

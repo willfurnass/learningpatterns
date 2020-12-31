@@ -4,6 +4,9 @@ date = 2018-01-03
 tags = []
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-01-03-first-post",
+]
 +++
 
 I'm Will Furnass, a [Research Software Engineer][rse] in the University of Sheffield's [Research Software Engineering team][uos-rse].

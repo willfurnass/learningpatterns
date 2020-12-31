@@ -4,6 +4,9 @@ date = 2018-04-08
 tags = ["ed", "sed", "grep", "awk", "vi", "vim", "unix"]
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-04-08-ed-mastery/",
+]
 +++
 
 Why learn Latin in 2018 if you're not a member of the catholic church?  Or Greek if you're not greek? 

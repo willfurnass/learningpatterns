@@ -4,6 +4,9 @@ date = 2018-04-05
 tags = ["job-arrays", "singularity", "docker", "grid-engine"]
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-04-05-gatk-singularity-docker-job-array",
+]
 +++
 
 I thought I'd share a little success story.

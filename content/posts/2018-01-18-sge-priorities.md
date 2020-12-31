@@ -4,6 +4,9 @@ date = 2018-01-18
 tags = ["grid-engine"]
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-01-18-sge-priorities",
+]
 +++
 
 

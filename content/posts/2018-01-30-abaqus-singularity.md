@@ -4,6 +4,9 @@ date = 2018-01-30
 tags = ["abaqus", "singularity", "opengl", "virtualgl"]
 featured_image = ""
 description = ""
+aliases = [
+    "/posts-output/2018-01-30-abaqus-singularity",
+]
 +++
 
 When I started as a [Research Software Engineer][rse-uos] at the Uni of Sheffield a year ago I was given a lovely [Dell XPS 9550][dell-xps-9550] laptop to work on. 
