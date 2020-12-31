@@ -9,3 +9,9 @@ draft = false
   twitter = "https://twitter.com/willfurnass"
   github = "https://github.com/willfurnass"
   gitlab = "https://gitlab.com/willfurnass"
+
+# For Cryogen compatibility
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
