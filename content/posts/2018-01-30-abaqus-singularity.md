@@ -152,7 +152,7 @@ I should note:
 
 When you run the container you should see something like:
 
-<img src="/img/glxspheres64.png" alt="glxspheres64" />
+{{< image src="/img/glxspheres64.png" alt="glxspheres64 output" position="center" style="border-radius: 8px;" >}}
 
 If you terminate the main process in your container then the container will also exit.
 
@@ -171,7 +171,7 @@ As per the previous example, to get NVIDIA GPU accelerated graphics we need: the
 
 The end result (you'll have to trust me here):
 
-<img src="/img/abaqus-2017.png" alt="Abaqus CAE 2017" width="80%" />
+{{< image src="/img/abaqus-2017.png" alt="Abaqus CAE 2017" position="center" style="border-radius: 8px;" >}}
 
 ## Portability
 

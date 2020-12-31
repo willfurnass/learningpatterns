@@ -17,7 +17,7 @@ And, **Ed**, a 46-47 year old positively archaic text editor, does this for part
 that are still very much in common use (specifically sed, awk, grep, vi), 
 as I learned from reading Michael W Lucas' new book *[Ed Mastery](https://www.michaelwlucas.com/tools/ed)*.
 
-![Ed Mastery book - front cover](/img/ed-mastery.jpg)
+{{< image src="/img/ed-mastery.jpg" alt="Ed Mastery book - front cover" position="center" style="border-radius: 8px;" >}}
 
 It was published on April 1st. 
 It focuses exclusively on a tool that no-one bar the neckbeardiest of [neckbeards](https://encyclopediadramatica.rs/Neckbeard) has used in recent decades.
