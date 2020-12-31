@@ -4,6 +4,9 @@ featured_image = ""
 omit_header_text = true
 description = "Talks"
 type = "page"
+aliases = [
+    "/pages-output/talks/",
+]
 [menu]
 main = {}
 +++

@@ -4,6 +4,9 @@ featured_image = ""
 omit_header_text = true
 description = "Resources"
 type = "page"
+aliases = [
+    "/pages-output/resources",
+]
 [menu]
 main = {}
 +++

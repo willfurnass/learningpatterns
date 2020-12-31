@@ -4,6 +4,9 @@ featured_image = ""
 omit_header_text = true
 description = "About"
 type = "page"
+aliases = [
+    "/pages-output/about",
+]
 [menu]
 main = {}
 +++
