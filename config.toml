@@ -1,17 +1,50 @@
 baseURL = "https://learningpatterns.me"
 languageCode = "en-gb"
 title = "Learning Patterns"
-theme = "ananke"
+theme = "terminal"
 draft = false
 
 [params]
   favicon = ""
-  twitter = "https://twitter.com/willfurnass"
+  #twitter = "https://twitter.com/willfurnass"
   github = "https://github.com/willfurnass"
   gitlab = "https://gitlab.com/willfurnass"
+  # Needed for Terminal theme (https://github.com/panr/hugo-theme-terminal/issues/43)
+  fullWidthTheme = false
+  centerTheme = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "willfurnass"
+  site = "willfurnass"
+
 
 # For Cryogen compatibility
 [outputFormats]
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "feed"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Learning Patterns"
+    subtitle = "Thoughts by Will Furnass on research software, systems administration and teaching."
+    owner = "Will Furnass"
+    copyright = "Will Furnass"
+
+    [languages.en.params.logo]
+      logoText = "Learning Patterns blog"
+      logoHomeLink = "/"
+      
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Github"
+        url = "https://github.com/willfurnass"
+
+      [[languages.en.menu.main]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/willfurnass"
