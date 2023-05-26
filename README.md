@@ -13,11 +13,11 @@ See [https://learningpatterns.me](https://learningpatterns.me) for the rendered 
  1. Install [Hugo][hugo].
  1. Clone this repo (including the [Terminal][hugo-theme-terminal] theme, which is a [submodule][git-submodule] of this repo):
     ```sh
-    git clone --recursive git@github.com:willfurnass/learningpatterns-hugo.git learningpatterns-blog
+    git clone --recursive git@github.com:willfurnass/learningpatterns.git learningpatterns
     ```
  1. Build and serve:
     ```sh
-    cd learningpatterns-blog
+    cd learningpatterns
     hugo serve
     ```
  1. Browse to [http://localhost:1313](http://localhost:1313) to view the rendered site.
