@@ -24,16 +24,17 @@ See [https://learningpatterns.me](https://learningpatterns.me) for the rendered 
 
 ## Deployment
 
-The site is automatically built and served by [render.com](render.com).
-This was set up as per the [guide to using render.com in the Hugo docs](https://gohugo.io/hosting-and-deployment/hosting-on-render/).
+The site is automatically built and served by GitHub Pages.
 
 Each push to the `main` branch will result in the site automatically being rebuilt.
 
 The site can be accessed over HTTPS and HTTP via the `learningpatterns.me` and `www.learningpatterns.me` domains:
 
-  * There is a `A` DNS resource record for `learningpatterns.me` that points at the IPv4 address of render.com's load balancer.
-  * There is a `CNAME` DNS resource record to ensure the site can also be accessed via `www.learningpatterns.me` 
-  * render.com uses LetsEncrypt to automatically generate SAN TLS certificates for the domains.
+  * There are four `A` DNS resource record for `learningpatterns.me` that points at the IPv4 addresses for GitHub Pages.
+  * There are four `AAAA` DNS resource record for `learningpatterns.me` that points at the IPv4 addresses for GitHub Pages.
+  * There is a `CNAME` DNS resource for `www.learningpatterns.me` that points at `willfurnass.github.io`
+  * GitHub Pages uses LetsEncrypt to automatically generate SAN TLS certificates for the domains.
+  * GitHub Pages automatically redirects `www` to the apex domain.
 
 ## License
 
